@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
         <title>Kuloba Tech Notes</title>
         <description>RSS Readerのサンプルフィード</description>
@@ -12,6 +12,7 @@
             <link>https://kuloba.app/rss-reader/sample-feed/register</link>
             <guid>https://kuloba.app/rss-reader/sample-feed/register</guid>
             <pubDate>Wed, 12 Aug 2026 10:00:00 GMT</pubDate>
+            <media:content url="https://kuloba.app/rss-reader/sample-images/article-1.png" medium="image" type="image/png" />
         </item>
 
         <item>
@@ -20,6 +21,7 @@
             <link>https://kuloba.app/rss-reader/sample-feed/articles</link>
             <guid>https://kuloba.app/rss-reader/sample-feed/articles</guid>
             <pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate>
+            <media:content url="https://kuloba.app/rss-reader/sample-images/article-2.png" medium="image" type="image/png" />
         </item>
 
         <item>
@@ -28,6 +30,7 @@
             <link>https://kuloba.app/rss-reader/sample-feed/favorites</link>
             <guid>https://kuloba.app/rss-reader/sample-feed/favorites</guid>
             <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+            <media:content url="https://kuloba.app/rss-reader/sample-images/article-3.png" medium="image" type="image/png" />
         </item>
 
         <item>
@@ -36,6 +39,16 @@
             <link>https://kuloba.app/rss-reader/sample-feed/read-status</link>
             <guid>https://kuloba.app/rss-reader/sample-feed/read-status</guid>
             <pubDate>Wed, 12 Aug 2026 07:00:00 GMT</pubDate>
+            <media:content url="https://kuloba.app/rss-reader/sample-images/article-4.png" medium="image" type="image/png" />
+        </item>
+
+        <item>
+            <title>フィードを自分好みに整理する</title>
+            <description>登録したフィードを一覧で確認し、情報収集を整理できます。</description>
+            <link>https://kuloba.app/rss-reader/sample-feed/organize</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/organize</guid>
+            <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+            <media:content url="https://kuloba.app/rss-reader/sample-images/article-5.png" medium="image" type="image/png" />
         </item>
     </channel>
 </rss>
