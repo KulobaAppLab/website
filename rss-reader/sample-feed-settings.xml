@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Kuloba App Updates</title>
+        <description>RSS Readerの設定に関するサンプルフィード</description>
+        <link>https://kuloba.app/</link>
+        <language>ja</language>
+
+        <item>
+            <title>フィードごとの設定を確認する</title>
+            <description>フィードごとに記事の保持数などを設定できます。</description>
+            <link>https://kuloba.app/rss-reader/sample-feed/settings</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/settings</guid>
+            <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
