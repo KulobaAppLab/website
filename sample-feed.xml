@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Kuloba Tech Notes</title>
+        <description>RSS Readerのサンプルフィード</description>
+        <link>https://kuloba.app/</link>
+        <language>ja</language>
+
+        <item>
+            <title>RSSフィードを登録する</title>
+            <description>好きなRSSフィードを登録して、記事をまとめて読めます。</description>
+            <link>https://kuloba.app/</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/register</guid>
+            <pubDate>Wed, 12 Aug 2026 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>新着記事をまとめて確認する</title>
+            <description>登録したフィードの記事を一覧で確認できます。</description>
+            <link>https://kuloba.app/</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/articles</guid>
+            <pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>お気に入りの記事を保存する</title>
+            <description>あとで読みたい記事をお気に入りに登録できます。</description>
+            <link>https://kuloba.app/</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/favorites</guid>
+            <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>既読状態を管理する</title>
+            <description>読んだ記事と未読の記事を分かりやすく管理できます。</description>
+            <link>https://kuloba.app/</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/read-status</guid>
+            <pubDate>Wed, 12 Aug 2026 07:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
