@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Kuloba Reading Notes</title>
+        <description>RSS Readerの閲覧機能に関するサンプルフィード</description>
+        <link>https://kuloba.app/</link>
+        <language>ja</language>
+
+        <item>
+            <title>記事をあとで読む</title>
+            <description>気になる記事をお気に入りに登録して、あとから読み返せます。</description>
+            <link>https://kuloba.app/rss-reader/sample-feed/reading</link>
+            <guid>https://kuloba.app/rss-reader/sample-feed/reading</guid>
+            <pubDate>Wed, 12 Aug 2026 05:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
